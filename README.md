@@ -9,9 +9,10 @@ There are no score limits enforced, so play for as long as you like!
 
 # Instructions
 Clone the git repo by opening up Git Bash and typing:
-'''shell
+
+
 git clone "https://github.com/matthewachan/LANPong
-'''
+
 
 Then, navigate to the LANPong folder and execute LANPong.jar which is in the dist folder to start playing!
 
